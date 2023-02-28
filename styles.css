@@ -221,12 +221,18 @@ iframe {
     padding-bottom: 25px;
   margin:auto;
   display:block;
-  background-color: #FBAB7E
+}
+.iframe{
+    width: 100%;
+    background-color: paleturquoise;
+}
+
 /*end of iframe*/
 
 
 /*footer*/
 /* media queries */
+
 @media(min-width: 450px){
     .work-bottom{
         grid-template-columns: repeat(2, 1fr);
