@@ -83,7 +83,7 @@ h1, h2, h3{
 
 /* header */
 #header{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../images/header-banner.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('header-banner.jpg') center/cover no-repeat fixed;
     justify-content: flex-start;
     align-items: flex-end;
 }
@@ -164,7 +164,7 @@ h1, h2, h3{
 
 /*work*/
 #work{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../images/sky.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('sky.jpg') center/cover no-repeat fixed;
     color: var(--light-color);
 }
 #work .title h2, #work h3{
@@ -231,7 +231,7 @@ h1, h2, h3{
     background-color: #0000;
 }
 #insta{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../images/sky.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('sky.jpg') center/cover no-repeat fixed;
     min-height: 65vh;
 }
 #insta .title h2{
