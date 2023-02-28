@@ -214,6 +214,15 @@ h1, h2, h3{
 }
 
 
+/*iframe*/
+
+iframe {
+  margin:auto;
+  display:block;
+  background-color: #FBAB7E
+/*end of iframe*/
+
+
 /*footer*/
 #footer{
     background-color: var(--dark-color);
